@@ -4,9 +4,9 @@ Scrivere un programma in linguaggio c che chiede un numero in input che determin
 questo e una "prova"
 
 
-#Titolo
+# Titolo
 
-**Questa è un prova
+**Questa è un prova**
 
 -uno
 -due
